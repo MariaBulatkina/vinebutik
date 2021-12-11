@@ -227,7 +227,7 @@ header {
 }
 
 .home {
-  background: url(/img/home.png) 50%/cover no-repeat;
+  background: url(img/home.png) 50%/cover no-repeat;
 }
 .about,
 .form  {
@@ -350,13 +350,13 @@ tr td:last-child {
   padding: 50px 285px;
 }
 .form__bottom::before {
-  content: url(/img/image\ -\ grape.png);
+  content: url(img/image\ -\ grape.png);
   position: absolute;
   top: -69px;
   left: -30px;
 }
 .form__bottom::after {
-  content:url(/img/image\ -\ barrel.png);
+  content:url(img/image\ -\ barrel.png);
   position: absolute;
   top: -69px;
   right: -30px;
